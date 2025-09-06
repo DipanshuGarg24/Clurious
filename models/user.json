@@ -1,0 +1,13 @@
+{
+    "user_id": "hackathon_demo_user",
+    "mastery_scores": {
+        "Dynamic Programming - Recurrence Relations": 50.0,
+        "Dynamic Programming - Subsequence Problems": 75.0
+    },
+    "cognitive_skill_fingerprint": {
+        "Analytical-Multi-Step": 80.0,
+        "Conceptual-Understanding": 88.0,
+        "Mathematical-Reasoning": 60.0
+    },
+    "overall_progress_percentage": 45.0
+}

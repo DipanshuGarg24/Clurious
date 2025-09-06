@@ -1,0 +1,66 @@
+{
+  "exams": [
+    {
+      "name": "GATE CSE",
+      "subjects": [
+        "Engineering Mathematics",
+        "Digital Logic",
+        "Computer Organization and Architecture",
+        "Programming and Data Structures",
+        "Algorithms",
+        "Theory of Computation",
+        "Compiler Design",
+        "Operating System",
+        "Databases",
+        "Computer Networks"
+      ]
+    },
+    {
+      "name": "GATE EE",
+      "subjects": [
+        "Engineering Mathematics",
+        "Electric Circuits",
+        "Electromagnetic Fields",
+        "Signals and Systems",
+        "Electrical Machines",
+        "Power Systems",
+        "Control Systems",
+        "Electrical and Electronic Measurements",
+        "Analog and Digital Electronics",
+        "Power Electronics"
+      ]
+    },
+    {
+      "name": "SSC CGL (Tier-I)",
+      "subjects": [
+        "General Intelligence & Reasoning",
+        "General Awareness",
+        "Quantitative Aptitude",
+        "English Comprehension"
+      ]
+    },
+    {
+      "name": "JEE Mains",
+      "subjects": [
+        "Physics",
+        "Chemistry",
+        "Mathematics"
+      ]
+    },
+    {
+      "name": "CAT",
+      "subjects": [
+        "Verbal Ability and Reading Comprehension (VARC)",
+        "Data Interpretation & Logical Reasoning (DILR)",
+        "Quantitative Ability (QA)"
+      ]
+    },
+    {
+      "name": "UPSC Civil Services (Prelims)",
+      "subjects": [
+        "General Studies Paper I (History, Geography, Polity, Economy, etc.)",
+        "General Studies Paper II (CSAT)"
+      ]
+    }
+  ]
+}
