@@ -1,0 +1,178 @@
+[
+  {
+    "subject": "Engineering Mathematics",
+    "topics": [
+      {
+        "topic_name": "Discrete Mathematics",
+        "sub_topics": [
+          "Propositional and first-order logic.",
+          "Sets, relations, functions, partial orders and lattices.",
+          "Groups.",
+          "Graphs: connectivity, matching, coloring.",
+          "Combinatorics: counting, recurrence relations, generating functions."
+        ]
+      },
+      {
+        "topic_name": "Linear Algebra",
+        "sub_topics": [
+          "Matrices, determinants, system of linear equations.",
+          "Eigenvalues and eigenvectors, LU decomposition."
+        ]
+      },
+      {
+        "topic_name": "Calculus",
+        "sub_topics": [
+            "Limits, continuity and differentiability.",
+            "Maxima and minima.",
+            "Mean value theorem.",
+            "Integration."
+        ]
+      },
+      {
+          "topic_name": "Probability and Statistics",
+          "sub_topics": [
+              "Random variables.",
+              "Uniform, normal, exponential, poisson and binomial distributions.",
+              "Mean, median, mode and standard deviation.",
+              "Conditional probability and Bayes theorem."
+          ]
+      }
+    ]
+  },
+  {
+    "subject": "Digital Logic",
+    "topics": [
+        {
+            "topic_name": "Digital Logic",
+            "sub_topics": [
+                "Boolean algebra.",
+                "Combinational and sequential circuits.",
+                "Minimization.",
+                "Number representations and computer arithmetic (fixed and floating point)."
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Computer Organization and Architecture",
+    "topics": [
+        {
+            "topic_name": "Computer Organization and Architecture",
+            "sub_topics": [
+                "Machine instructions and addressing modes.",
+                "ALU, data-path and control unit.",
+                "Instruction pipelining.",
+                "Memory hierarchy: cache, main memory and secondary storage.",
+                "I/O interface (interrupt and DMA mode)."
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Programming and Data Structures",
+    "topics": [
+      {
+        "topic_name": "Programming",
+        "sub_topics": [
+          "Programming in C.",
+          "Recursion."
+        ]
+      },
+      {
+        "topic_name": "Data Structures",
+        "sub_topics": [
+          "Arrays, stacks, queues, linked lists, trees, binary search trees, binary heaps, graphs."
+        ]
+      }
+    ]
+  },
+  {
+    "subject": "Algorithms",
+    "topics": [
+        {
+            "topic_name": "Algorithms",
+            "sub_topics": [
+                "Searching, sorting, hashing.",
+                "Asymptotic worst-case time and space complexity.",
+                "Algorithm design techniques: greedy, dynamic programming and divide-and-conquer.",
+                "Graph traversals, minimum spanning trees, shortest paths."
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Theory of Computation",
+    "topics": [
+        {
+            "topic_name": "Theory of Computation",
+            "sub_topics": [
+                "Regular expressions and finite automata.",
+                "Context-free grammars and push-down automata.",
+                "Regular and context-free languages, pumping lemma.",
+                "Turing machines and undecidability."
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Compiler Design",
+    "topics": [
+        {
+            "topic_name": "Compiler Design",
+            "sub_topics": [
+                "Lexical analysis, parsing, syntax-directed translation.",
+                "Runtime environments.",
+                "Intermediate code generation."
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Operating System",
+    "topics": [
+        {
+            "topic_name": "Operating System",
+            "sub_topics": [
+                "System calls, processes, threads, inter-process communication, concurrency and synchronization.",
+                "Deadlock.",
+                "CPU scheduling.",
+                "Memory management and virtual memory.",
+                "File systems."
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Databases",
+    "topics": [
+        {
+            "topic_name": "Databases",
+            "sub_topics": [
+                "ER-model.",
+                "Relational model: relational algebra, tuple calculus, SQL.",
+                "Integrity constraints, normal forms.",
+                "File organization, indexing (e.g., B and B+ trees).",
+                "Transactions and concurrency control."
+            ]
+        }
+    ]
+  },
+  {
+    "subject": "Computer Networks",
+    "topics": [
+        {
+            "topic_name": "Computer Networks",
+            "sub_topics": [
+                "Concept of layering.",
+                "LAN technologies (Ethernet).",
+                "Flow and error control techniques, switching.",
+                "IPv4/IPv6, routers and routing algorithms (distance vector, link state).",
+                "TCP/UDP and sockets, congestion control.",
+                "Application layer protocols (DNS, SMTP, POP, FTP, HTTP).",
+                "Basics of Wi-Fi.",
+                "Network security: authentication, basics of public key and private key cryptography, digital signatures and certificates, firewalls."
+            ]
+        }
+    ]
+  }
+]
