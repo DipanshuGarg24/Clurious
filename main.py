@@ -234,7 +234,7 @@ elif st.session_state.current_page == "quiz_design":
             Mode = st.select_slider("Select the Level of Quiz", ["Easy", "Medium", "Hard"], value="Medium")
             if st.form_submit_button("🚀 Generate Full Syllabus Quiz"):
                 st.success("Quiz parameters received! Generating your quiz...")
-                quiz_info = {"subject/topic": "Full Syllabus", "Num ques": numberQues_full, "difficulty": Mode}
+                quiz_info = {"subject/topic": "Full Syllabus Gate cse", "Num ques": numberQues_full, "difficulty": Mode}
                 with st.spinner("Please Wait"):
                     st.session_state.quiz_data = quiz_gen.generate_quiz(dummy_user_profile, quiz_info)
                 st.session_state.current_page = "quiz_take"
