@@ -4,6 +4,8 @@ from streamlit.components.v1 import html
 
 # Assuming these models exist; if not, they can be mocked or implemented as needed
 from models import quiz_gen, notes_maker
+import sys, os
+sys.path.append(os.path.dirname(__file__))
 
 # Page configuration
 st.set_page_config(
